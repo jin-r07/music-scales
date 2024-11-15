@@ -1,4 +1,5 @@
-This is my fist academic project, using php
+## Music Scales (MS#)
+This was my fist academic project, using php
 
 ## Getting Started
 Simply clone the repo using below steps:
